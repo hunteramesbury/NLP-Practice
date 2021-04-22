@@ -1,1 +1,1 @@
-# NLP-Homework
+# Natural Language Processing practice using Tensorflow
